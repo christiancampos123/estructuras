@@ -1,0 +1,3 @@
+C:/Users/christian.campos/Desktop/scriptsDeC/estructuras/cmake-build-debug/CMakeFiles/estructuras.dir
+C:/Users/christian.campos/Desktop/scriptsDeC/estructuras/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/christian.campos/Desktop/scriptsDeC/estructuras/cmake-build-debug/CMakeFiles/rebuild_cache.dir
